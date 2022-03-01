@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://SehoonKwon.github.io/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://SehoonKwon.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://SehoonKwon.github.io/"
-                />
-  </url><url>
     <loc>https://SehoonKwon.github.io/categories/</loc>
+    <lastmod>2022-03-01T16:15:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -30,7 +17,48 @@
                 href="https://SehoonKwon.github.io/categories/"
                 />
   </url><url>
+    <loc>https://SehoonKwon.github.io/categories/category/</loc>
+    <lastmod>2022-03-01T16:15:33+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://SehoonKwon.github.io/post/</loc>
+    <lastmod>2022-03-01T16:15:33+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://SehoonKwon.github.io/</loc>
+    <lastmod>2022-03-01T16:15:33+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://SehoonKwon.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://SehoonKwon.github.io/"
+                />
+  </url><url>
+    <loc>https://SehoonKwon.github.io/categories/subcategory/</loc>
+    <lastmod>2022-03-01T16:15:33+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://SehoonKwon.github.io/tags/tag1/</loc>
+    <lastmod>2022-03-01T16:15:33+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://SehoonKwon.github.io/tags/tag2/</loc>
+    <lastmod>2022-03-01T16:15:33+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://SehoonKwon.github.io/tags/</loc>
+    <lastmod>2022-03-01T16:15:33+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -43,5 +71,10 @@
                 hreflang="en"
                 href="https://SehoonKwon.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://SehoonKwon.github.io/post/test/</loc>
+    <lastmod>2022-03-01T16:15:33+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
